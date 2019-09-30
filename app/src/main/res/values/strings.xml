@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_about">Contacto</string>
+    <string name="menu_settings">Acerca de</string>
+    <string name="menu_pet">Pet</string>
+    <string name="num_likes">Likes</string>
+</resources>
